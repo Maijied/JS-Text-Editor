@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+
+pre {
+  text-align: left;
+  white-space: pre-line;
+}
+.rdw-editor-main {
+  height: 500%;
+  overflow: auto;
+  box-sizing: border-box;
+  border: 2px solid #222222;
+  -webkit-border-radius: 5px;
+            border-radius: 5px;
+}
+
